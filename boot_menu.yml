@@ -1,0 +1,5 @@
+ublue_variants:
+  - label: luizansounds/blu-ublue
+    ks: /kickstart/ublue-os.ks
+    flavors:
+      - label: blu-ublue
